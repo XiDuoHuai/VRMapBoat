@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Github_VR/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Paddle.uasset",
+				"E:/Github_VR/TestVRWater/Content/VRCotent/Map/Map.umap",
+				"E:/Github_VR/TestVRWater/Content/VRCotent/GameMode/KayakGameMode.uasset",
+				"E:/Github_VR/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Boat.uasset",
+				"E:/UE5.0.3/UE_5.2/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Ocean.uasset",
+				"E:/Github_VR/TestVRWater2/Content/land1.umap",
+				"E:/Github_VR/TestVRWater2/Content/VRCotent/BluePrint/Boat/BP_Boat.uasset",
+				"E:/UE5.0.3/UE_5.2/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset",
+				"E:/Github_VR/TestVRWater2/Content/land.umap",
+				"E:/Github_VR/TestVRWater2/Content/VRCotent/BluePrint/Boat/BP_Paddle.uasset",
+				"E:/Github_VR/TestVRWater2/Content/VRCotent/GameMode/KayakGameMode.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Map/Map2.umap",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Paddle.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/GameMode/KayakGameMode.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/BluePrint/Boat/NewBlueprint1.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"D:/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Boat.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Meshes/SM_kayaking_01.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Meshes/SM_kayaking_02.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Meshes/SM_kayaking_03.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Meshes/SM_kayaking_04.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Meshes/SM_kayaking_05.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Materials/M_kayaking_02.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Materials/M_kayaking_01.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Map/Map.umap"
+			]
+		}
+	]
+}
