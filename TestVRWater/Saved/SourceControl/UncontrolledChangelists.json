@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/VRMapBoat/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Boat.uasset",
 				"E:/Github_VR/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Paddle.uasset",
 				"E:/Github_VR/TestVRWater/Content/VRCotent/Map/Map.umap",
 				"E:/Github_VR/TestVRWater/Content/VRCotent/GameMode/KayakGameMode.uasset",
@@ -22,7 +24,6 @@
 				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/GameMode/KayakGameMode.uasset",
 				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/BluePrint/Boat/NewBlueprint1.uasset",
 				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRTemplate/Blueprints/VRGameMode.uasset",
-				"D:/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset",
 				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Boat.uasset",
 				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Meshes/SM_kayaking_01.uasset",
 				"D:/myFile/Unreal Projects/UE5.2.1/TestVRWater/Content/VRCotent/Asset/Meshes/SM_kayaking_02.uasset",
