@@ -7,6 +7,9 @@
 			"files": [
 				"D:/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset",
 				"D:/myFile/Unreal Projects/UE5.2.1/VRMapBoat/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Boat.uasset",
+				"D:/myFile/Unreal Projects/UE5.2.1/VRMapBoat/TestVRWater/Content/land1.umap",
+				"D:/myFile/Unreal Projects/UE5.2.1/VRMapBoat/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Paddle.uasset",
+				"D:/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Ocean.uasset",
 				"E:/Github_VR/TestVRWater/Content/VRCotent/BluePrint/Boat/BP_Paddle.uasset",
 				"E:/Github_VR/TestVRWater/Content/VRCotent/Map/Map.umap",
 				"E:/Github_VR/TestVRWater/Content/VRCotent/GameMode/KayakGameMode.uasset",
